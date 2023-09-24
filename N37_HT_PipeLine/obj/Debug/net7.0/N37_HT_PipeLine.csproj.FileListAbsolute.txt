@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\bin\Debug\net7.0\N37_HT_PipeLine.exe
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\bin\Debug\net7.0\N37_HT_PipeLine.deps.json
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\bin\Debug\net7.0\N37_HT_PipeLine.runtimeconfig.json
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\bin\Debug\net7.0\N37_HT_PipeLine.dll
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\bin\Debug\net7.0\N37_HT_PipeLine.pdb
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\obj\Debug\net7.0\N37_HT_PipeLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\obj\Debug\net7.0\N37_HT_PipeLine.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\obj\Debug\net7.0\N37_HT_PipeLine.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\obj\Debug\net7.0\N37_HT_PipeLine.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\obj\Debug\net7.0\N37_HT_PipeLine.dll
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\obj\Debug\net7.0\refint\N37_HT_PipeLine.dll
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\obj\Debug\net7.0\N37_HT_PipeLine.pdb
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\obj\Debug\net7.0\N37_HT_PipeLine.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\N37_HT_PipeLine\obj\Debug\net7.0\ref\N37_HT_PipeLine.dll

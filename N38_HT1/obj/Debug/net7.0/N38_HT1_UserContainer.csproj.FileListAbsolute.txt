@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\N38_HT1\obj\Debug\net7.0\N38_HT1_UserContainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\N38_HT1\obj\Debug\net7.0\N38_HT1_UserContainer.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\N38_HT1\obj\Debug\net7.0\N38_HT1_UserContainer.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\N38_HT1\obj\Debug\net7.0\N38_HT1_UserContainer.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\N38_HT1\bin\Debug\net7.0\N38_HT1_UserContainer.exe
+D:\3-month_AllTasks_InC#\N38_HT1\bin\Debug\net7.0\N38_HT1_UserContainer.deps.json
+D:\3-month_AllTasks_InC#\N38_HT1\bin\Debug\net7.0\N38_HT1_UserContainer.runtimeconfig.json
+D:\3-month_AllTasks_InC#\N38_HT1\bin\Debug\net7.0\N38_HT1_UserContainer.dll
+D:\3-month_AllTasks_InC#\N38_HT1\bin\Debug\net7.0\N38_HT1_UserContainer.pdb
+D:\3-month_AllTasks_InC#\N38_HT1\obj\Debug\net7.0\N38_HT1_UserContainer.dll
+D:\3-month_AllTasks_InC#\N38_HT1\obj\Debug\net7.0\refint\N38_HT1_UserContainer.dll
+D:\3-month_AllTasks_InC#\N38_HT1\obj\Debug\net7.0\N38_HT1_UserContainer.pdb
+D:\3-month_AllTasks_InC#\N38_HT1\obj\Debug\net7.0\N38_HT1_UserContainer.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\N38_HT1\obj\Debug\net7.0\ref\N38_HT1_UserContainer.dll

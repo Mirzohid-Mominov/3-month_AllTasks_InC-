@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\bin\Debug\net7.0\LessonTask_Mutex.exe
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\bin\Debug\net7.0\LessonTask_Mutex.deps.json
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\bin\Debug\net7.0\LessonTask_Mutex.runtimeconfig.json
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\bin\Debug\net7.0\LessonTask_Mutex.dll
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\bin\Debug\net7.0\LessonTask_Mutex.pdb
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\obj\Debug\net7.0\LessonTask_Mutex.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\obj\Debug\net7.0\LessonTask_Mutex.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\obj\Debug\net7.0\LessonTask_Mutex.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\obj\Debug\net7.0\LessonTask_Mutex.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\obj\Debug\net7.0\LessonTask_Mutex.dll
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\obj\Debug\net7.0\refint\LessonTask_Mutex.dll
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\obj\Debug\net7.0\LessonTask_Mutex.pdb
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\obj\Debug\net7.0\LessonTask_Mutex.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\LessonTask_Mutex\obj\Debug\net7.0\ref\LessonTask_Mutex.dll

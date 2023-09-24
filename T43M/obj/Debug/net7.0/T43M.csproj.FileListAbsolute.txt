@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\T43M\bin\Debug\net7.0\T43M.exe
+D:\3-month_AllTasks_InC#\T43M\bin\Debug\net7.0\T43M.deps.json
+D:\3-month_AllTasks_InC#\T43M\bin\Debug\net7.0\T43M.runtimeconfig.json
+D:\3-month_AllTasks_InC#\T43M\bin\Debug\net7.0\T43M.dll
+D:\3-month_AllTasks_InC#\T43M\bin\Debug\net7.0\T43M.pdb
+D:\3-month_AllTasks_InC#\T43M\obj\Debug\net7.0\T43M.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\T43M\obj\Debug\net7.0\T43M.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\T43M\obj\Debug\net7.0\T43M.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\T43M\obj\Debug\net7.0\T43M.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\T43M\obj\Debug\net7.0\T43M.dll
+D:\3-month_AllTasks_InC#\T43M\obj\Debug\net7.0\refint\T43M.dll
+D:\3-month_AllTasks_InC#\T43M\obj\Debug\net7.0\T43M.pdb
+D:\3-month_AllTasks_InC#\T43M\obj\Debug\net7.0\T43M.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\T43M\obj\Debug\net7.0\ref\T43M.dll

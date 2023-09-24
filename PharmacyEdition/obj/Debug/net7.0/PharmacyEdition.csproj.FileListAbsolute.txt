@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\PharmacyEdition\bin\Debug\net7.0\PharmacyEdition.exe
+D:\3-month_AllTasks_InC#\PharmacyEdition\bin\Debug\net7.0\PharmacyEdition.deps.json
+D:\3-month_AllTasks_InC#\PharmacyEdition\bin\Debug\net7.0\PharmacyEdition.runtimeconfig.json
+D:\3-month_AllTasks_InC#\PharmacyEdition\bin\Debug\net7.0\PharmacyEdition.dll
+D:\3-month_AllTasks_InC#\PharmacyEdition\bin\Debug\net7.0\PharmacyEdition.pdb
+D:\3-month_AllTasks_InC#\PharmacyEdition\obj\Debug\net7.0\PharmacyEdition.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\PharmacyEdition\obj\Debug\net7.0\PharmacyEdition.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\PharmacyEdition\obj\Debug\net7.0\PharmacyEdition.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\PharmacyEdition\obj\Debug\net7.0\PharmacyEdition.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\PharmacyEdition\obj\Debug\net7.0\PharmacyEdition.dll
+D:\3-month_AllTasks_InC#\PharmacyEdition\obj\Debug\net7.0\refint\PharmacyEdition.dll
+D:\3-month_AllTasks_InC#\PharmacyEdition\obj\Debug\net7.0\PharmacyEdition.pdb
+D:\3-month_AllTasks_InC#\PharmacyEdition\obj\Debug\net7.0\PharmacyEdition.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\PharmacyEdition\obj\Debug\net7.0\ref\PharmacyEdition.dll

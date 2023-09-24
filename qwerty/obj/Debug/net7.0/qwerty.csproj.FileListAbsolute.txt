@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\qwerty\bin\Debug\net7.0\qwerty.exe
+D:\3-month_AllTasks_InC#\qwerty\bin\Debug\net7.0\qwerty.deps.json
+D:\3-month_AllTasks_InC#\qwerty\bin\Debug\net7.0\qwerty.runtimeconfig.json
+D:\3-month_AllTasks_InC#\qwerty\bin\Debug\net7.0\qwerty.dll
+D:\3-month_AllTasks_InC#\qwerty\bin\Debug\net7.0\qwerty.pdb
+D:\3-month_AllTasks_InC#\qwerty\obj\Debug\net7.0\qwerty.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\qwerty\obj\Debug\net7.0\qwerty.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\qwerty\obj\Debug\net7.0\qwerty.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\qwerty\obj\Debug\net7.0\qwerty.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\qwerty\obj\Debug\net7.0\qwerty.dll
+D:\3-month_AllTasks_InC#\qwerty\obj\Debug\net7.0\refint\qwerty.dll
+D:\3-month_AllTasks_InC#\qwerty\obj\Debug\net7.0\qwerty.pdb
+D:\3-month_AllTasks_InC#\qwerty\obj\Debug\net7.0\qwerty.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\qwerty\obj\Debug\net7.0\ref\qwerty.dll

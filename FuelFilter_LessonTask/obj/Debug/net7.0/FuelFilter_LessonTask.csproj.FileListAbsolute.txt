@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\obj\Debug\net7.0\FuelFilter_LessonTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\obj\Debug\net7.0\FuelFilter_LessonTask.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\obj\Debug\net7.0\FuelFilter_LessonTask.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\obj\Debug\net7.0\FuelFilter_LessonTask.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\bin\Debug\net7.0\FuelFilter_LessonTask.exe
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\bin\Debug\net7.0\FuelFilter_LessonTask.deps.json
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\bin\Debug\net7.0\FuelFilter_LessonTask.runtimeconfig.json
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\bin\Debug\net7.0\FuelFilter_LessonTask.dll
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\bin\Debug\net7.0\FuelFilter_LessonTask.pdb
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\obj\Debug\net7.0\FuelFilter_LessonTask.dll
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\obj\Debug\net7.0\refint\FuelFilter_LessonTask.dll
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\obj\Debug\net7.0\FuelFilter_LessonTask.pdb
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\obj\Debug\net7.0\FuelFilter_LessonTask.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\FuelFilter_LessonTask\obj\Debug\net7.0\ref\FuelFilter_LessonTask.dll

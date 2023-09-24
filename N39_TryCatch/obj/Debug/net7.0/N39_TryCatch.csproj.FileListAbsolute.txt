@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\N39_TryCatch\bin\Debug\net7.0\N39_TryCatch.exe
+D:\3-month_AllTasks_InC#\N39_TryCatch\bin\Debug\net7.0\N39_TryCatch.deps.json
+D:\3-month_AllTasks_InC#\N39_TryCatch\bin\Debug\net7.0\N39_TryCatch.runtimeconfig.json
+D:\3-month_AllTasks_InC#\N39_TryCatch\bin\Debug\net7.0\N39_TryCatch.dll
+D:\3-month_AllTasks_InC#\N39_TryCatch\bin\Debug\net7.0\N39_TryCatch.pdb
+D:\3-month_AllTasks_InC#\N39_TryCatch\obj\Debug\net7.0\N39_TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\N39_TryCatch\obj\Debug\net7.0\N39_TryCatch.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\N39_TryCatch\obj\Debug\net7.0\N39_TryCatch.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\N39_TryCatch\obj\Debug\net7.0\N39_TryCatch.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\N39_TryCatch\obj\Debug\net7.0\N39_TryCatch.dll
+D:\3-month_AllTasks_InC#\N39_TryCatch\obj\Debug\net7.0\refint\N39_TryCatch.dll
+D:\3-month_AllTasks_InC#\N39_TryCatch\obj\Debug\net7.0\N39_TryCatch.pdb
+D:\3-month_AllTasks_InC#\N39_TryCatch\obj\Debug\net7.0\N39_TryCatch.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\N39_TryCatch\obj\Debug\net7.0\ref\N39_TryCatch.dll

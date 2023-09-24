@@ -1,0 +1,4 @@
+D:\3-month_AllTasks_InC#\N38_HT_Bogus\obj\Debug\net7.0\N38_HT_Bogus.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\N38_HT_Bogus\obj\Debug\net7.0\N38_HT_Bogus.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\N38_HT_Bogus\obj\Debug\net7.0\N38_HT_Bogus.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\N38_HT_Bogus\obj\Debug\net7.0\N38_HT_Bogus.csproj.CoreCompileInputs.cache

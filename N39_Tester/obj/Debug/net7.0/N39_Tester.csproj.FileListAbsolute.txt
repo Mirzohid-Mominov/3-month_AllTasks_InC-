@@ -1,0 +1,4 @@
+D:\3-month_AllTasks_InC#\N39_Tester\obj\Debug\net7.0\N39_Tester.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\N39_Tester\obj\Debug\net7.0\N39_Tester.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\N39_Tester\obj\Debug\net7.0\N39_Tester.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\N39_Tester\obj\Debug\net7.0\N39_Tester.csproj.CoreCompileInputs.cache

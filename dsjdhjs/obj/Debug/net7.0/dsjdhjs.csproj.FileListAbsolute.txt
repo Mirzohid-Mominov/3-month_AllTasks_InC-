@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\dsjdhjs\bin\Debug\net7.0\dsjdhjs.exe
+D:\3-month_AllTasks_InC#\dsjdhjs\bin\Debug\net7.0\dsjdhjs.deps.json
+D:\3-month_AllTasks_InC#\dsjdhjs\bin\Debug\net7.0\dsjdhjs.runtimeconfig.json
+D:\3-month_AllTasks_InC#\dsjdhjs\bin\Debug\net7.0\dsjdhjs.dll
+D:\3-month_AllTasks_InC#\dsjdhjs\bin\Debug\net7.0\dsjdhjs.pdb
+D:\3-month_AllTasks_InC#\dsjdhjs\obj\Debug\net7.0\dsjdhjs.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\dsjdhjs\obj\Debug\net7.0\dsjdhjs.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\dsjdhjs\obj\Debug\net7.0\dsjdhjs.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\dsjdhjs\obj\Debug\net7.0\dsjdhjs.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\dsjdhjs\obj\Debug\net7.0\dsjdhjs.dll
+D:\3-month_AllTasks_InC#\dsjdhjs\obj\Debug\net7.0\refint\dsjdhjs.dll
+D:\3-month_AllTasks_InC#\dsjdhjs\obj\Debug\net7.0\dsjdhjs.pdb
+D:\3-month_AllTasks_InC#\dsjdhjs\obj\Debug\net7.0\dsjdhjs.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\dsjdhjs\obj\Debug\net7.0\ref\dsjdhjs.dll

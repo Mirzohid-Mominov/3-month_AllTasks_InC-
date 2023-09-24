@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\bin\Debug\net7.0\EmailSender_HT2_N41.exe
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\bin\Debug\net7.0\EmailSender_HT2_N41.deps.json
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\bin\Debug\net7.0\EmailSender_HT2_N41.runtimeconfig.json
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\bin\Debug\net7.0\EmailSender_HT2_N41.dll
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\bin\Debug\net7.0\EmailSender_HT2_N41.pdb
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\obj\Debug\net7.0\EmailSender_HT2_N41.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\obj\Debug\net7.0\EmailSender_HT2_N41.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\obj\Debug\net7.0\EmailSender_HT2_N41.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\obj\Debug\net7.0\EmailSender_HT2_N41.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\obj\Debug\net7.0\EmailSender_HT2_N41.dll
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\obj\Debug\net7.0\refint\EmailSender_HT2_N41.dll
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\obj\Debug\net7.0\EmailSender_HT2_N41.pdb
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\obj\Debug\net7.0\EmailSender_HT2_N41.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\EmailSender_HT2_N41\obj\Debug\net7.0\ref\EmailSender_HT2_N41.dll
