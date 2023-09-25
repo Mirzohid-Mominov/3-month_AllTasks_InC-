@@ -1,0 +1,17 @@
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\bin\Debug\net7.0\BogusLibrary_N38_Ht2.exe
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\bin\Debug\net7.0\BogusLibrary_N38_Ht2.deps.json
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\bin\Debug\net7.0\BogusLibrary_N38_Ht2.runtimeconfig.json
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\bin\Debug\net7.0\BogusLibrary_N38_Ht2.dll
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\bin\Debug\net7.0\BogusLibrary_N38_Ht2.pdb
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\bin\Debug\net7.0\Bogus.dll
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\obj\Debug\net7.0\BogusLibrary_N38_Ht2.csproj.AssemblyReference.cache
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\obj\Debug\net7.0\BogusLibrary_N38_Ht2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\obj\Debug\net7.0\BogusLibrary_N38_Ht2.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\obj\Debug\net7.0\BogusLibrary_N38_Ht2.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\obj\Debug\net7.0\BogusLibrary_N38_Ht2.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\obj\Debug\net7.0\BogusLibrary_N38_Ht2.csproj.CopyComplete
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\obj\Debug\net7.0\BogusLibrary_N38_Ht2.dll
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\obj\Debug\net7.0\refint\BogusLibrary_N38_Ht2.dll
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\obj\Debug\net7.0\BogusLibrary_N38_Ht2.pdb
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\obj\Debug\net7.0\BogusLibrary_N38_Ht2.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\BogusLibrary_N38_Ht2\obj\Debug\net7.0\ref\BogusLibrary_N38_Ht2.dll
