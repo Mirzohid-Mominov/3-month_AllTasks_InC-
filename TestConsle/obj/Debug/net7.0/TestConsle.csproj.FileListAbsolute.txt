@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\TestConsle\bin\Debug\net7.0\TestConsle.exe
+D:\3-month_AllTasks_InC#\TestConsle\bin\Debug\net7.0\TestConsle.deps.json
+D:\3-month_AllTasks_InC#\TestConsle\bin\Debug\net7.0\TestConsle.runtimeconfig.json
+D:\3-month_AllTasks_InC#\TestConsle\bin\Debug\net7.0\TestConsle.dll
+D:\3-month_AllTasks_InC#\TestConsle\bin\Debug\net7.0\TestConsle.pdb
+D:\3-month_AllTasks_InC#\TestConsle\obj\Debug\net7.0\TestConsle.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\TestConsle\obj\Debug\net7.0\TestConsle.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\TestConsle\obj\Debug\net7.0\TestConsle.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\TestConsle\obj\Debug\net7.0\TestConsle.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\TestConsle\obj\Debug\net7.0\TestConsle.dll
+D:\3-month_AllTasks_InC#\TestConsle\obj\Debug\net7.0\refint\TestConsle.dll
+D:\3-month_AllTasks_InC#\TestConsle\obj\Debug\net7.0\TestConsle.pdb
+D:\3-month_AllTasks_InC#\TestConsle\obj\Debug\net7.0\TestConsle.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\TestConsle\obj\Debug\net7.0\ref\TestConsle.dll

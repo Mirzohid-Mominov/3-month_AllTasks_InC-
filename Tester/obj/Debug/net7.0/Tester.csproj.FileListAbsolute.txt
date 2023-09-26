@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\Tester\bin\Debug\net7.0\Tester.exe
+D:\3-month_AllTasks_InC#\Tester\bin\Debug\net7.0\Tester.deps.json
+D:\3-month_AllTasks_InC#\Tester\bin\Debug\net7.0\Tester.runtimeconfig.json
+D:\3-month_AllTasks_InC#\Tester\bin\Debug\net7.0\Tester.dll
+D:\3-month_AllTasks_InC#\Tester\bin\Debug\net7.0\Tester.pdb
+D:\3-month_AllTasks_InC#\Tester\obj\Debug\net7.0\Tester.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\Tester\obj\Debug\net7.0\Tester.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\Tester\obj\Debug\net7.0\Tester.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\Tester\obj\Debug\net7.0\Tester.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\Tester\obj\Debug\net7.0\Tester.dll
+D:\3-month_AllTasks_InC#\Tester\obj\Debug\net7.0\refint\Tester.dll
+D:\3-month_AllTasks_InC#\Tester\obj\Debug\net7.0\Tester.pdb
+D:\3-month_AllTasks_InC#\Tester\obj\Debug\net7.0\Tester.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\Tester\obj\Debug\net7.0\ref\Tester.dll

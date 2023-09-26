@@ -27,6 +27,7 @@ namespace N37_HT_PipeLine.Services
             {
                 yield return new EmailMessage(item.Second.Subject, item.Second.Body,
                     MessageConstants.SenderEmailAddress, item.First.EmailAddress);
+
             }
         }
     }

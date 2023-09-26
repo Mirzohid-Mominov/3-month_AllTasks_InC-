@@ -30,6 +30,7 @@ namespace N37_HT_PipeLine.Services
                     yield return new EmailTemplates(
                         MessageConstants.DeletedBody.Replace("{ { FullName } }", fullName),
                         MessageConstants.DeletedSubject);
+
                 }
             }
         }
