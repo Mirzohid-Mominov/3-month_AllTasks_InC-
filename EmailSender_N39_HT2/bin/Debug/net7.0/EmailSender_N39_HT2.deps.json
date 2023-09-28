@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EmailSender_N39_HT2/1.0.0": {
+        "runtime": {
+          "EmailSender_N39_HT2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmailSender_N39_HT2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

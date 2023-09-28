@@ -42,18 +42,19 @@ public class Program
 
     public class EmailTemplateService : IEmailTemplateService
     {
-###Implement EmailTemplateService
+        //###Implement EmailTemplateService
 
-        Description
-        EmailtTemplateService creats EmailTemplate model and manages different types of templates.This service builds placeholder collection with values based on given category and user
+        //Description
+        /*EmailtTemplateService creats EmailTemplate model and manages different types of templates.This service builds pla*/ceholder collection with values based on given category and user
 
-        Requirements
-        -Create EmailTemplate model
-        -Manages differemt type of templates
-        -finds tokens from templates, returns placeholder data
+        //Requirements
+        //-Create EmailTemplate model
+        //-Manages differemt type of templates
+        //-finds tokens from templates, returns placeholder data
 
-        Deliverables
-        service that creats EmailTemplate model, return placeholder data of templates
+        //Deliverables
+        //service that creats EmailTemplate model, return placeholder data of templates
+
         public IEnumerable<EmailTemplates> GetTemplates(IEnumerable<User> users)
         {
             foreach (var user in users)
@@ -82,18 +83,18 @@ public class Program
     }
     public class EmailMessageService : IEmailMessageService
     {
-        service that return EmailMessage model
-        ###Implement EmailMessageService
+        //service that return EmailMessage model
+        //###Implement EmailMessageService
 
-        Description
-        EmailMessageService is service that should convert EmailTemplate model to EmailMessage model
+        //Description
+        //EmailMessageService is service that should convert EmailTemplate model to EmailMessage model
 
-        Requirements
-        - creates EmailMessage model
-        -converts EmailTemplate model to EmailMessage model
-        - should return EmailMessage model
+        //Requirements
+        //- creates EmailMessage model
+        //-converts EmailTemplate model to EmailMessage model
+        //- should return EmailMessage model
 
-        Deliverables
+        //Deliverables
 
 
 
@@ -107,13 +108,13 @@ public class Program
 
     public class EmailSenderService : IEmailSenderService
     {
-        Description
-        Implement an EmailService that sends given email to given user.
+        //Description
+        //Implement an EmailService that sends given email to given user.
 
-        Requirements
-        should send given email and return EmailMessage model
-        Deliverables
-        service that sends an email to given email address
+        //Requirements
+        //should send given email and return EmailMessage model
+        //Deliverables
+        //service that sends an email to given email address
         public async Task SendEmail(IEnumerable<EmailMessage> messages)
         {
             var smtp = new SmtpClient("smtp.gmail.com", 587);
@@ -140,14 +141,27 @@ public class Program
 
 //while (true)
 //{
-//    var email = Console.ReadLine();
-//    Console.WriteLine(Regex.IsMatch(email, @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"));
+//    var firstName = Console.ReadLine();
+//    var lastName = Console.ReadLine();
+//    var capitalizedFirstName = string.Concat(firstName.Substring(0, 1)
+//    .ToUpper(), firstName.Substring(1).ToLower());
 
-//    //Console.WriteLine(!string.IsNullOrEmpty(name)
-//    //                    && char.IsUpper(name[0])
-//    //                    && name.All(letter => char.IsLetter(letter)));
+//    var capitalizedLastName = string.Concat(lastName.Substring(0, 1)
+//    .ToUpper(), lastName.Substring(1).ToLower());
+
+//    if (!string.IsNullOrEmpty(capitalizedFirstName)
+//                        && firstName.Equals(capitalizedFirstName) 
+//                        && capitalizedFirstName.All(letter => char.IsLetter(letter)))
+//        Console.WriteLine("hello");
+//    if (!string.IsNullOrEmpty(capitalizedLastName)
+//                    && lastName.Equals(capitalizedLastName)
+//                    && capitalizedLastName.All(letter => char.IsLetter(letter)))
+//        Console.WriteLine("true");
+
+//    Console.WriteLine("false");
+
+    
+
 //}
-
-
 
 

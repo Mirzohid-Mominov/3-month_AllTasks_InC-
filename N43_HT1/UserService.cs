@@ -25,7 +25,7 @@ namespace N43_HT1
             throw new ArgumentNullException(nameof(user), "you wrote user is null!");
         }
 
-        public bool Delete(Guid id)
+        public bool Delete(int id)
         {
             var foundUser = _user.FirstOrDefault (x => x.Id == id);
             if(foundUser != null)
@@ -36,7 +36,7 @@ namespace N43_HT1
             return false;
         }
 
-        public User? Get(Guid id)
+        public User? Get(int id)
         {
             return _user.FirstOrDefault(x => x.Id == id);
         }
@@ -48,8 +48,8 @@ namespace N43_HT1
             {
                 foundUser.FirstName = user.FirstName;
                 foundUser.LastName = user.LastName;
-                foundUser.IsActive = user.IsActive;
             }
+            return foundUser;
         }
     }
 }

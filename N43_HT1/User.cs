@@ -10,18 +10,16 @@ namespace N43_HT1
 {
     public class User
     {
-        public User( string firstName, string lastName, bool isActive)
-        {
-            Id = Guid.NewGuid();
-            FirstName = firstName;
-            LastName = lastName;
-            IsActive = isActive;
-        }
-
         public User() { }
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public bool IsActive { get; set; }
+
+        public User(int id, string firstName, string lastName)
+        {
+            Id = id;
+            FirstName = firstName;
+            LastName = lastName;
+        }
     }
 }

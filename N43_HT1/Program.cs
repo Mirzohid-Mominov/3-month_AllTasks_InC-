@@ -23,10 +23,17 @@ using N43_HT1;
 
 var user = new User()
 { 
-    FirstName = "cvbnm",
-    LastName = "afghj",
-    IsActive = true,
+    Id = 1,
+    FirstName = "Mirzohid",
+    LastName = "Mominov",
 };
 
-var employee = new EmployeeService();
-employee.CreatePerformanceRecordAsync(user.Id);
+var userService = new UserService();
+userService.Create(user);
+
+var employeeService = new EmployeeService(userService);
+var perforManceService = new PerformanceService(userService);
+
+var accountService = new AccountService(employeeService, perforManceService);
+
+accountService.CreateReportAsync(user.Id);

@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.Json;
-using System.Threading.Tasks;
-
-//EmployeeService
+﻿//EmployeeService
 
 //- CreatePerformanceRecordAsync(id) - berilgan userni fullnami bilan fayl yaratsin
 
@@ -13,29 +6,32 @@ namespace N43_HT1
 {
     public class EmployeeService
     {
-        private List<User> _users;
-        public EmployeeService()
+        private readonly UserService _userService;
+        private Mutex _mutex = new(false, "OpenFileMutex");
+
+        public EmployeeService(UserService userService)
         {
-            _users = new List<User>();
+            _userService = userService;
         }
-        public async Task CreatePerformanceRecordAsync(Guid id)
+        public async Task<string> CreatePerformanceRecordAsync(int id)
         {
-            var foundUser = _users.FirstOrDefault(x => x.Id.Equals(id));
 
-            var fullName = $"{foundUser.FirstName} {foundUser.LastName}";
-           
-            string directoryPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-            
-            var fileName = $"{fullName}.txt";
-            var filePath = Path.Combine(directoryPath, fileName);
+            _mutex.WaitOne();
 
-            File.Create(filePath).Close();
-            //var file = File.Open(filePath, FileMode.OpenOrCreate);
+            var foundUser = _userService.Get(id);
+            if (foundUser != null)
+            {
+                var fullName = $"{foundUser.FirstName} {foundUser.LastName}.txt";
+                var directoryPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+                var filePath = Path.Combine(directoryPath, fullName);
 
-            //JsonSerializer.Serialize(file, "All Good");
-            //file.Flush();
-            //file.Close();
-            //Console.WriteLine("hello");
+                File.Create(filePath).Close();
+
+                return filePath;
+            }
+            _mutex.ReleaseMutex();
+
+            return null;
         }
     }
 }
