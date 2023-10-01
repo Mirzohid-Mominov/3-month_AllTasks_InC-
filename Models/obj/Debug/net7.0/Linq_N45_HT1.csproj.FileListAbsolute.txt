@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\Models\bin\Debug\net7.0\Linq_N45_HT1.exe
+D:\3-month_AllTasks_InC#\Models\bin\Debug\net7.0\Linq_N45_HT1.deps.json
+D:\3-month_AllTasks_InC#\Models\bin\Debug\net7.0\Linq_N45_HT1.runtimeconfig.json
+D:\3-month_AllTasks_InC#\Models\bin\Debug\net7.0\Linq_N45_HT1.dll
+D:\3-month_AllTasks_InC#\Models\bin\Debug\net7.0\Linq_N45_HT1.pdb
+D:\3-month_AllTasks_InC#\Models\obj\Debug\net7.0\Linq_N45_HT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\Models\obj\Debug\net7.0\Linq_N45_HT1.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\Models\obj\Debug\net7.0\Linq_N45_HT1.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\Models\obj\Debug\net7.0\Linq_N45_HT1.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\Models\obj\Debug\net7.0\Linq_N45_HT1.dll
+D:\3-month_AllTasks_InC#\Models\obj\Debug\net7.0\refint\Linq_N45_HT1.dll
+D:\3-month_AllTasks_InC#\Models\obj\Debug\net7.0\Linq_N45_HT1.pdb
+D:\3-month_AllTasks_InC#\Models\obj\Debug\net7.0\Linq_N45_HT1.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\Models\obj\Debug\net7.0\ref\Linq_N45_HT1.dll
