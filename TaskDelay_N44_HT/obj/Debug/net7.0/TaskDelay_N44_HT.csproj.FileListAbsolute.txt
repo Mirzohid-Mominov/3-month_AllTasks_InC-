@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\bin\Debug\net7.0\TaskDelay_N44_HT.exe
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\bin\Debug\net7.0\TaskDelay_N44_HT.deps.json
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\bin\Debug\net7.0\TaskDelay_N44_HT.runtimeconfig.json
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\bin\Debug\net7.0\TaskDelay_N44_HT.dll
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\bin\Debug\net7.0\TaskDelay_N44_HT.pdb
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\obj\Debug\net7.0\TaskDelay_N44_HT.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\obj\Debug\net7.0\TaskDelay_N44_HT.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\obj\Debug\net7.0\TaskDelay_N44_HT.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\obj\Debug\net7.0\TaskDelay_N44_HT.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\obj\Debug\net7.0\TaskDelay_N44_HT.dll
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\obj\Debug\net7.0\refint\TaskDelay_N44_HT.dll
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\obj\Debug\net7.0\TaskDelay_N44_HT.pdb
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\obj\Debug\net7.0\TaskDelay_N44_HT.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\TaskDelay_N44_HT\obj\Debug\net7.0\ref\TaskDelay_N44_HT.dll
