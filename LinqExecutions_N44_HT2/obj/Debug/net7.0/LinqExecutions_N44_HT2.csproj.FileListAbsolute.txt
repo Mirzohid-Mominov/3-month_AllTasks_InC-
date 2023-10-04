@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\bin\Debug\net7.0\LinqExecutions_N44_HT2.exe
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\bin\Debug\net7.0\LinqExecutions_N44_HT2.deps.json
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\bin\Debug\net7.0\LinqExecutions_N44_HT2.runtimeconfig.json
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\bin\Debug\net7.0\LinqExecutions_N44_HT2.dll
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\bin\Debug\net7.0\LinqExecutions_N44_HT2.pdb
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\LinqExecutions_N44_HT2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\LinqExecutions_N44_HT2.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\LinqExecutions_N44_HT2.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\LinqExecutions_N44_HT2.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\LinqExecutions_N44_HT2.dll
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\refint\LinqExecutions_N44_HT2.dll
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\LinqExecutions_N44_HT2.pdb
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\LinqExecutions_N44_HT2.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\ref\LinqExecutions_N44_HT2.dll
