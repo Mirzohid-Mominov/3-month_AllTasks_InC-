@@ -32,6 +32,7 @@
 
 using FileBaseContext.Abstractions.Models.FileContext;
 using FileBaseContext.Context.Models.Configurations;
+using FirstCrud_HT.Services;
 using FirstCrudAPI_Hometask.DataAccess;
 using FirstCrudAPI_Hometask.Services;
 
@@ -51,6 +52,7 @@ builder.Services.AddScoped<IDataContext, AppFileContext>(provider =>
 
 
 builder.Services.AddScoped<UserService>();
+builder.Services.AddScoped<OrderService>();
 
 builder.Services.AddRouting(options => options.LowercaseUrls = true);
 

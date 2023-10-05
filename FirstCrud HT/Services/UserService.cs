@@ -29,7 +29,7 @@ namespace FirstCrudAPI_Hometask.Services
             var user = _dataContext.Users.FirstOrDefault(user => user.Id == id);
             return new ValueTask<User?>(user);
         }
-
+            
         public async ValueTask<User> CreateAsync(User user, bool saveChanges = true, CancellationToken cancellation = default)
         {
             await _dataContext.Users.AddAsync(user, cancellation);
