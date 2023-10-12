@@ -12,3 +12,10 @@ D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\refint\LinqExec
 D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\LinqExecutions_N44_HT2.pdb
 D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\LinqExecutions_N44_HT2.genruntimeconfig.cache
 D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\ref\LinqExecutions_N44_HT2.dll
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\LinqExecutions_N44_HT2.csproj.AssemblyReference.cache
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\bin\Debug\net7.0\Humanizer.dll
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\bin\Debug\net7.0\FileBaseContext.Abstractions.dll
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\bin\Debug\net7.0\FileBaseContext.Context.dll
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\bin\Debug\net7.0\FileBaseContext.Set.dll
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\3-month_AllTasks_InC#\LinqExecutions_N44_HT2\obj\Debug\net7.0\LinqExecutions_N44_HT2.csproj.CopyComplete

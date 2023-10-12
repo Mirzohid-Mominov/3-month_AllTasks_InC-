@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Max.FileBaseContext.Context": {
+              "target": "Package",
+              "version": "[0.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

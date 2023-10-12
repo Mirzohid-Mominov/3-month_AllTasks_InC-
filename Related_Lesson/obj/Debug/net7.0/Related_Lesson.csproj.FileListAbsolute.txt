@@ -1,0 +1,14 @@
+D:\3-month_AllTasks_InC#\Related_Lesson\bin\Debug\net7.0\Related_Lesson.exe
+D:\3-month_AllTasks_InC#\Related_Lesson\bin\Debug\net7.0\Related_Lesson.deps.json
+D:\3-month_AllTasks_InC#\Related_Lesson\bin\Debug\net7.0\Related_Lesson.runtimeconfig.json
+D:\3-month_AllTasks_InC#\Related_Lesson\bin\Debug\net7.0\Related_Lesson.dll
+D:\3-month_AllTasks_InC#\Related_Lesson\bin\Debug\net7.0\Related_Lesson.pdb
+D:\3-month_AllTasks_InC#\Related_Lesson\obj\Debug\net7.0\Related_Lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-month_AllTasks_InC#\Related_Lesson\obj\Debug\net7.0\Related_Lesson.AssemblyInfoInputs.cache
+D:\3-month_AllTasks_InC#\Related_Lesson\obj\Debug\net7.0\Related_Lesson.AssemblyInfo.cs
+D:\3-month_AllTasks_InC#\Related_Lesson\obj\Debug\net7.0\Related_Lesson.csproj.CoreCompileInputs.cache
+D:\3-month_AllTasks_InC#\Related_Lesson\obj\Debug\net7.0\Related_Lesson.dll
+D:\3-month_AllTasks_InC#\Related_Lesson\obj\Debug\net7.0\refint\Related_Lesson.dll
+D:\3-month_AllTasks_InC#\Related_Lesson\obj\Debug\net7.0\Related_Lesson.pdb
+D:\3-month_AllTasks_InC#\Related_Lesson\obj\Debug\net7.0\Related_Lesson.genruntimeconfig.cache
+D:\3-month_AllTasks_InC#\Related_Lesson\obj\Debug\net7.0\ref\Related_Lesson.dll

@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "az4zcJ52ECNw+ARXiZvhWVPmHDyc9wRdqzU1wvA/5wwhjIcwXWl0hK6ojkEzWCix/wSadCnd3c3fzq7zTmdZuQ==",
+  "dgSpecHash": "rSg/r+CmC+NieentXmfri74D97T1s8CPQacy479xN2j8uVTJpc51tzX7zEfqbP/m6GrUXoqfa1HN+/VJ+dZrmw==",
   "success": true,
   "projectFilePath": "D:\\3-month_AllTasks_InC#\\EmailSender_HT2_N41\\EmailSender_HT2_N41.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\max.filebasecontext.abstractions\\0.0.4\\max.filebasecontext.abstractions.0.0.4.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\max.filebasecontext.context\\0.0.7\\max.filebasecontext.context.0.0.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\max.filebasecontext.set\\0.0.3\\max.filebasecontext.set.0.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

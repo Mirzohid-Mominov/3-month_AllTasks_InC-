@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "tpBPdpdOEQO/3ZXirDGS9Opm30omU4BJQmRM6HTqD4fpdcVN/aQQPECb85WdbjoLlBUaCr2H9MY5TdIi8xLLVg==",
+  "dgSpecHash": "QFWp4Ii1PFYL5T78oWtKyC+B7HMsqRyUMtUwECoyH70o18JK3VGCZaakSym98DP3iUQx3fSartjL8AeMpWML/g==",
   "success": true,
   "projectFilePath": "D:\\3-month_AllTasks_InC#\\Models\\Linq_N45_HT1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\max.filebasecontext.abstractions\\0.0.4\\max.filebasecontext.abstractions.0.0.4.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\max.filebasecontext.context\\0.0.7\\max.filebasecontext.context.0.0.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\max.filebasecontext.set\\0.0.3\\max.filebasecontext.set.0.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

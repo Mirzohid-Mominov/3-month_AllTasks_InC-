@@ -15,28 +15,28 @@ namespace FirstCrud_HT.Controllers
             _userService = userService;
         }
 
-        [HttpGet]
+        [HttpGet("api/users/:id/orders")]
         public IActionResult GetAllUsers([FromQuery] int pageTooken, int pageSize, [FromServices] UserService userService) 
         {
             var result = _userService.Get(user => true).Skip((pageTooken - 1) * pageSize).Take(pageSize).ToList();
             return result.Any() ? Ok(result) : NotFound();
         }
 
-        [HttpGet("{userId:guid}")]
+        [HttpGet("{api/users/:id")]
         public async ValueTask<IActionResult> GetById([FromRoute] Guid userId)
         {
             var result = await _userService.GetByIdAsync(userId);
             return result is not null ? Ok(result) : NotFound(userId);
         }
 
-        [HttpPost]
+        [HttpPost("api/users")]
         public async ValueTask<IActionResult> CreateUser(User user)
         {
             var result = await _userService.CreateAsync(user);
             return CreatedAtAction(nameof(GetById), new {userId = user.Id}, result);
         }   
 
-        [HttpPut]
+        [HttpPut("api/users")]
         public async ValueTask<IActionResult> UpdateAsync([FromBody] User user)
         {
             await _userService.UpdateAsync(user);

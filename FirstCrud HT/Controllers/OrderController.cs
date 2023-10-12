@@ -15,28 +15,28 @@ namespace FirstCrud_HT.Controllers
             _orderService = orderService;
         }
 
-        [HttpGet]
+        [HttpGet("api/orders")]
         public IActionResult GetAllOrders([FromQuery] int pageToken, [FromQuery] int pageSize, [FromServices] OrderService orderService)
         {
             var result = _orderService.Get(order => true).Skip((pageToken - 1) * pageSize).Take(pageSize).ToList();
             return result.Any() ? Ok(result) : NotFound();
         }
 
-        [HttpGet("{orderId:guid}")]
+        [HttpGet("api/orders/:id")]
         public async ValueTask<IActionResult> GetById([FromRoute] Guid orderId)
         {
             var result = await _orderService.GetByIdAsync(orderId);
             return result is not null ? Ok(result) : NotFound(orderId);
         }
 
-        [HttpPost("order")]
+        [HttpPost("api/orders")]
         public async ValueTask<IActionResult> CreateAsync(Order order)
         {
             var result = _orderService.CraeteAsync(order);
             return CreatedAtAction(nameof(GetById), new { orderId = order.Id }, result);
         }
 
-        [HttpPut]
+        [HttpPut("api/orders")]
         public async ValueTask<IActionResult> UpdateAsync([FromBody] Order order)
         {
             var result = _orderService.UpdateAsync(order);
